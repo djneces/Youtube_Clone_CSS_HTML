@@ -337,6 +337,9 @@ a {
     .search-bar {
         width: 70%;
     }
+    .menu-links {
+        display: none;
+    }
     
   }
   
